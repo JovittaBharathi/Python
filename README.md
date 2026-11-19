@@ -81,7 +81,9 @@ By completing these assignments, you will:
 
 **Jovitta**
 
-Aspiring Data Analyst | Python | SQL | Power BI | Excel
+Aspiring Data Analyst | Power BI | SQL | Python | Excel
 
+---
 
 ⭐ If you found this repository helpful, don't forget to star it!
+
